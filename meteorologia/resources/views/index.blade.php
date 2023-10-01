@@ -3,7 +3,7 @@
 
 <html>
 <head>
-    <link rel="stylesheet" type="text/css" href="css/estilo.css">
+    <link rel="stylesheet" type="text/css" href="../../public/css/estilo.css">
 </head>
 <body>
     <!-- Contenido página  index PHP -->
