@@ -1,0 +1,14 @@
+body {
+    background-image: url('../img/fondo_index.png'); /* Ruta relativa a la ubicación de estilo.css */
+    background-size: cover; /* Opcional: ajusta el tamaño de la imagen de fondo según el tamaño del cuerpo del documento */
+}
+
+
+.Rectangle {
+    width: 527px;
+    height: 48px;
+    margin: 49px 46px 24px 45px;
+    padding: 14px 302.5px 11px 12.5px;
+    border-radius: 4px;
+    border: solid 1px #fff;
+  }

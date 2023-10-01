@@ -71,21 +71,13 @@ white-space: nowrap;
 
 <div class="d-flex w-100 h-100 p-3 mx-auto flex-column">
 <header class="mb-auto">
-<div>
-<h3 class="float-md-start mb-0">Laravel Weather App</h3>
-<nav class="nav nav-masthead justify-content-center float-md-end">
-<a class="nav-link fw-bold py-1 px-0 active" aria-current="page" href="#">Home</a>
-<a class="nav-link fw-bold py-1 px-0" href="#">Features</a>
-<a class="nav-link fw-bold py-1 px-0" href="#">Contact</a>
-</nav>
-</div>
+
 </header>
 
 @yield('content')
 
 <footer class="mt-auto text-white-50">
-<p>Cover template for <a href="https://getbootstrap.com/" class="text-white">Bootstrap</a>, by <a
-href="https://twitter.com/mdo" class="text-white">@mdo</a>.</p>
+
 </footer>
 </div>
 
